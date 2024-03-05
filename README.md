@@ -39,7 +39,7 @@ Fundamentals of anonymity at the Internet:
 1. Anonymous registration.
 2. Keeping predefinded fields for personal information clear.
 
-Threats:
+Threat model:
 1. Goverments - communication channels, data gathering
-2. Corporations - software and hardware backdoors
+2. Corporations - software and hardware backdoors, data gathering
 3. Individuals - fake information, vulnerabilities exploitation
