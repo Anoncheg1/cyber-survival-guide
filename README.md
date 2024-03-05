@@ -40,6 +40,6 @@ Fundamentals of anonymity at the Internet:
 2. Keeping predefinded fields for personal information clear.
 
 Threat model:
-1. Goverments - communication channels, data gathering
-2. Corporations - software and hardware backdoors, data gathering
+1. Goverments - communication channels, data gathering from public sources
+2. Corporations - software and hardware backdoors, data gathering from private sources
 3. Individuals - fake information, vulnerabilities exploitation
