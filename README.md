@@ -34,3 +34,12 @@ Others:
 1. Hide DNS requests with proxy.
 2. Never share personal or sensitive information with centralized LLMs like ChatGPT, don't ask it to fix errors in letters.
 3. Don't keep sensisitve information or passwords on cheep smartphones, don't install sensitive applications.
+
+Fundamentals of anonymity at the Internet:
+1. Anonymous registration.
+2. Keeping predefinded fields for personal information clear.
+
+Threats:
+1. Goverments - communication channels, data gathering
+2. Corporations - software and hardware backdoors
+3. Individuals - fake information, vulnerabilities exploitation
