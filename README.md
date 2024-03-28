@@ -38,6 +38,7 @@ Others:
 Fundamentals of anonymity at the Internet:
 1. Anonymous registration.
 2. Keeping predefinded fields for personal information clear.
+3. Different communication channels for different services
 
 Threat model:
 1. Goverments - communication channels, data gathering from public sources
