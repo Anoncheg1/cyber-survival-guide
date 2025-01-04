@@ -21,6 +21,7 @@
 12. By timeout, disable USB ports and block screen. Never connect or charge smartphone with USB.
 13. Backup of root directory every 6 month with ```tar --exclude-from=backup_exclude.txt --acl --xattrs -cpzvf /mnt/backup/backup-$(date +%F).tar.gz /```
 14. Keeping passwords in several encrypted files, unencrypt by necessity with entering password outside of window manager.
+15. For fingerprints, the best solution is to have different device and different IP for every activity. It is just costly. From gigh to low: IP address, hardware figerprints, software fingerprints, behaviour fingerprints (mouse).
 
 # Browser:
 - VPN over Tor per application
