@@ -21,7 +21,6 @@
 12. By timeout, disable USB ports and block screen. Never connect or charge smartphone with USB.
 13. Backup of root directory every 6 month with ```tar --exclude-from=backup_exclude.txt --acl --xattrs -cpzvf /mnt/backup/backup-$(date +%F).tar.gz /```
 14. Keeping passwords in several encrypted files, unencrypt by necessity with entering password outside of window manager.
-15. For fingerprints, the best solution is to have different device and different IP for every activity. It is just costly. From gigh to low: IP address, hardware figerprints, software fingerprints, behaviour fingerprints (mouse).
 
 # Browser:
 - VPN over Tor per application
@@ -37,13 +36,14 @@
 2. Never share personal or sensitive information with centralized LLMs like ChatGPT, don't ask it to fix errors in letters.
 3. Don't keep sensisitve information or passwords on cheep smartphones, don't install sensitive applications.
 
-# Fundamentals of anonymity at the Internet:
-1. Anonymous registration.
+# Fundamentals of privacy at the Internet:
+1. Anonymous registration. At least, having two emails for registrations and for conversations.
 2. Keeping predefinded fields for personal information clear.
-3. Different communication channels for different services
+3. Different communication channels for different services.
+4. For fingerprints, the best solution is to have different devices and different IP for every activity. It is just costly. From gigh to low: IP address, hardware fingerprints, connection timestamp, software fingerprints, behaviour fingerprints (mouse).
 
 # Threat model:
-1. Goverments - communication channels, data gathering from public sources
+1. Goverments - communication channels, data gathering from public sources, highly classified mass surveillance systems.
 2. Corporations - software and hardware backdoors, data gathering from private sources
 3. Individuals - fake information, vulnerabilities exploitation
 
