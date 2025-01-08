@@ -45,7 +45,7 @@
 # Threat model:
 1. Goverments - communication channels, data gathering from public sources, highly classified mass surveillance systems.
 2. Corporations - software and hardware backdoors, data gathering from private sources
-3. Individuals - fake information, vulnerabilities exploitation
+3. Individuals - proxy for surveillance, fake information, vulnerabilities exploitation
 
 # Rings of protecton
 Uinversal with balanced all threats:
