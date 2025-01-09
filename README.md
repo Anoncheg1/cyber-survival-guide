@@ -31,16 +31,15 @@
 - Disable insecure SSL ciphers, rise up version
 - Disable JavaScript whenever it is possible
 
-# Others:
-1. Hide DNS requests with proxy.
-2. Never share personal or sensitive information with centralized LLMs like ChatGPT, don't ask it to fix errors in letters.
-3. Don't keep sensisitve information or passwords on cheep smartphones, don't install sensitive applications.
+# Smartphones
+- To isolate applications use two smartphones one for connection to the Internet and phone calls, other for VPN with applications.
+- Consider F-Droid or download APK directly from github with binary comparision from different proxies.
 
 # Fundamentals of privacy at the Internet:
 1. Anonymous registration. At least, having two emails for registrations and for conversations.
 2. Keeping predefinded fields for personal information clear.
 3. Different communication channels for different services.
-4. For fingerprints, the best solution is to have different devices and different IP for every activity. It is just costly. From gigh to low: IP address, hardware fingerprints, connection timestamp, software fingerprints, behaviour fingerprints (mouse).
+4. For fingerprints, the best solution is to have different devices and different IP for every activity. It is just costly. From gigh to low: IP address, hardware fingerprints (HTML5 Canvas), connection timestamp, software fingerprints, behaviour fingerprints (mouse).
 
 # Threat model:
 1. Goverments - communication channels, data gathering from public sources, highly classified mass surveillance systems.
@@ -58,3 +57,8 @@ Uinversal with balanced all threats:
 - Ring 6: Working laptop - applications sandboxes.
 - Ring 7: Remote random machines.
 - Ring 8: Remote personal machines.
+
+# Others:
+1. Hide DNS requests with proxy.
+2. Never share personal or sensitive information with centralized LLMs like ChatGPT, don't ask it to fix errors in letters.
+3. Don't keep sensisitve information or passwords on cheep smartphones, don't install sensitive applications.
