@@ -8,7 +8,7 @@
 - Initialize heap memory with zeroes
 - Enable debuging kernel data structures
 - Other security tweeks, according to hardeing guides such as "Kernel Self Protection Project".
-4. Build firmware blobs into the kernel binary, when there is no open source alternative patches for kernel.
+4. Driver installation: find source code and patch sources of kernel. At least disable modules and put firmware driver in kernel.
 5. Full disk encryption with LUKS (Linux Unified Key Setup). Key is a several megabyte file encrypted with AES256 symmetric-key. This key placed at USB stick and used during initramfs loading to decrypt LVM disks with LUKS aes-xts-plain64 algorithm.
 6. Hardening /etc/fstab
 - proc /proc proc hidepid=2,nosuid,noexec,gid=wheel
