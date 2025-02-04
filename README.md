@@ -21,6 +21,9 @@
 12. By timeout, disable USB ports and block screen. Never connect or charge smartphone with USB.
 13. Backup of root directory every 6 month with ```tar --exclude-from=backup_exclude.txt --acl --xattrs -cpzvf /mnt/backup/backup-$(date +%F).tar.gz /```
 14. Keeping passwords in several encrypted files, unencrypt by necessity with entering password outside of window manager.
+15. Solution to problem "Fediverse: how to share personal data and stay anonymous?":
+   1) store information at services that don't leak data to anyone expect selected persons (not public) and allow to remove all with one button, sync local copy to remote.
+   2) split public anonymous information information by several separate platforms, give all contacts together only to selected persons.
 
 # Browser:
 - VPN over Tor per application
