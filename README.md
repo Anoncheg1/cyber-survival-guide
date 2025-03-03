@@ -57,9 +57,9 @@ Balanced threats:
 - Ring 3: Working laptop root
 - Ring 4: Working laptop - working user with Window manager.
 - Ring 5: Secure Internet resources.
-- Ring 6: Working laptop - applications sandboxes.
-- Ring 7: Remote random machines.
-- Ring 8: Remote personal machines.
+- Ring 6: Working laptop - sandboxed applications.
+- Ring 7: Remote personal machines.
+- Ring 8: Remote random machines.
 
 # Others:
 1. Hide DNS requests with proxy.
