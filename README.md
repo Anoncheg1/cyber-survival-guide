@@ -1,6 +1,6 @@
 # Here is my approach to protect a PC from common security threats.
 1. Replace proprietary BIOS with coreboot (https://github.com/merge/skulls).
-2. Secure boot with password and USB stick.
+2. Secure boot with password at USB stick. Main password should not be visible and located at opened machine.
 2. OS Gentoo Linux stable relase with open source licensies. Full recompilation. Non systemd. Non root Xorg.
 3. Linux kernel compilation with disabled loadable modules and security hardening, such as:
 - Strong Stack Protector
@@ -50,8 +50,8 @@
 3. Individuals - proxy for surveillance, fake information, vulnerabilities exploitation
 
 # Rings of protecton
-Uinversal with balanced all threats:
-- Ring 0: brain (may be readed actually)
+Balanced threats:
+- Ring 0: brain, hard to keep
 - Ring 1: isolated hardward: “USB authenticator”, encrypted backups
 - Ring 2: Isolated laptop
 - Ring 3: Working laptop root
